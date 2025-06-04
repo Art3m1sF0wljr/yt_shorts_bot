@@ -1,4 +1,4 @@
-so this is to be runin order<br>
+so this is to be run in order<br>
 1)redditbot.sh<br>
 2)ttsbot.sh<br>
 3)ytdwnld.sh<br>
